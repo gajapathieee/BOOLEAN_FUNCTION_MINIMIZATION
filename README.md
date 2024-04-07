@@ -66,7 +66,7 @@ endmodule
 ![RTL OUTPUT 2](https://github.com/23003250/BOOLEAN_FUNCTION_MINIMIZATION/assets/139331462/be51436b-369d-4d09-b411-d66fb1a3d375)
 
 ## RTL
-![WAVEFORM 2](https://github.com/23003250/BOOLEAN_FUNCTION_MINIMIZATION/assets/139331462/ece7870f-2a5d-4e6b-b2f6-fa708c2a5b11)
+![waveform exp 2](https://github.com/23003250/BOOLEAN_FUNCTION_MINIMIZATION/assets/139331462/b42d8d42-def2-4ec7-a4a0-baeb043c7949)
 
 ## Result:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
